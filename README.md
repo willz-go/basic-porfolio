@@ -1,4 +1,4 @@
-"# basic portfolio" 
+# Basic portfolio
 -----------
 
 ## Codecademy basic portfolio exercises.
